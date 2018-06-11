@@ -10,6 +10,7 @@ A thread-safe in-memory key-value service and operations audit service **spring 
 
 - `./gradlew` **or** `gradle bootRun`
 - refer https://docs.spring.io/spring-boot/docs/current/reference/html/using-boot-running-your-application.html
+- Recommended to use Intellij Idea IDE to `build`, `test` and `bootRun`
 
 ## End-point URL
 - `http://localhost:8080`
